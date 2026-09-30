@@ -1,0 +1,6 @@
+{
+  "name": "NABL LabEquip Master - ISO 15189 Equipment Monitoring",
+  "description": "Clinical & Public Health Equipment Monitoring, NABL ISO 15189 compliance, calibration schedules, AMC/CMC tracking, and breakdown RBER management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
